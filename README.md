@@ -8,4 +8,4 @@ Acesta conține o interfață grafică cu 3 ferestre:
   - A treia fereastră are scopul de a putea adăuga noi date într-un fișier existent.
   
 Structura unui fișier .txt compatibil cu acest proiect:
-  *$valoarea progresului făcut$* *valoarea propusă* *data (yyyy mm dd)*
+  *$valoarea progresului făcut$* *$valoarea propusă$* *$data (yyyy mm dd)$*
