@@ -1,6 +1,7 @@
 # Cpp-Project
 Acesta este un proiect realizat pentru o materie din facultate.
-Îți indică, folosint distanța Hamming, câte procente ai realizat dintr-un priect.
+
+Îți indică, folosint distanța Hamming, câte procente ai realizat dintr-un proiect.
 
 Acesta conține o interfață grafică cu 3 ferestre:
   - În prima se face legătura cu toate ferestrele și se calculează distanța Hamming a unui proiect introdus cu ajutorul butonului Input.
